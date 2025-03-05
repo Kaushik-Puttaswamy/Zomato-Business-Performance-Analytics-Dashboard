@@ -23,8 +23,52 @@ It offers a comprehensive analysis of Zomato’s business performance, focusing 
 - restaurant.xlsx
 - users.xlsx
 
-### Icon Images
+### Icon & Images
 
 ### Files
 - Zomato-Business-Performance-Analytics-Dashboard.pbix
 - Zomato-Business-Performance-Analytics-Dashboard.pdf
+
+# 🎯 Key Highlights
+
+• **Sales Analysis:** Provides insights into total sales, order volume, and customer ratings.
+
+• **User Performance:** Visualizes active users, new and lost users, and age demographics.
+
+• **City Performance:** Analyzes sales, orders, and user engagement across various cities.
+
+• **Interactive Elements:** Features filters and visuals like bar charts, line graphs, and heat maps for enhanced user engagement.
+
+# 🧠 How to Navigate
+
+• **Access the Dashboard:** Click on the provided link.
+
+• **Explore Tabs:** Index, Overview, User Performance, and City Performance.
+
+• **Engage with Data:** Use interactive filters to gain deeper insights.
+
+# 🔧 Tools & Technologies Used
+	
+ •	**Power BI:** Data visualization & dashboard creation
+	
+ •	**DAX (Data Analysis Expressions):** Calculations & measures
+	
+ •	**Power Query:** Data transformation
+
+# 📊 Business Insights
+
+**🏆 Top City:** Tirupati shows the highest sales volume.
+
+**👥 User Trends:** Higher attrition among male users.
+
+**🍲 Sales Dominance:** Non-vegetarian items lead in sales categories.
+
+# 💡 Conclusion
+
+This dashboard is a strategic asset for analyzing Zomato's business operations, highlighting opportunities for growth, and supporting data-driven decision-making.
+
+📧 Contact
+
+For additional information, please reach out at [LinkedIn](https://www.linkedin.com/in/kaushik-puttaswamy-data-analyst/).
+
+
