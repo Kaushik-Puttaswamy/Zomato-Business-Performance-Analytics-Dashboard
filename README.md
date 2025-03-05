@@ -8,26 +8,26 @@ It offers a comprehensive analysis of Zomato’s business performance, focusing 
 
 🌐 Live Power BI Report: [Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=e0dba157-75a5-4962-9db5-432f9ea67cbc&autoAuth=true&ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab)
 
-# Project Structure
+# 📂 Project Structure
 
-### Dashboard Images
-- [Overview](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/Overview.png)
-- [User Performance](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/User%20Performance.png)
-- [City Performance](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/City%20Performance.png)
+### 📊 Dashboard Images  
+- 🖼️ [Overview](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/Overview.png)  
+- 📈 [User Performance](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/User%20Performance.png)  
+- 🌍 [City Performance](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/City%20Performance.png)  
 
-### Data
-- food.xlsx
-- menu.xlsx
-- orders.xlsx
-- orders_Type.xlsx
-- restaurant.xlsx
-- users.xlsx
+### 📂 Data  
+- 📜 food.xlsx  
+- 📜 menu.xlsx  
+- 📜 orders.xlsx  
+- 📜 orders_Type.xlsx  
+- 📜 restaurant.xlsx  
+- 📜 users.xlsx  
 
-### Icon & Images
+### 🖼️ Icon & Images  
 
-### Files
-- Zomato-Business-Performance-Analytics-Dashboard.pbix
-- Zomato-Business-Performance-Analytics-Dashboard.pdf
+### 📁 Files  
+- 📊 **[Zomato-Business-Performance-Analytics-Dashboard.pbix]**  
+- 📄 **[Zomato-Business-Performance-Analytics-Dashboard.pdf]**  
 
 # 🎯 Key Highlights
 
