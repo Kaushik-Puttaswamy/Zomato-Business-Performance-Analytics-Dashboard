@@ -33,9 +33,15 @@ It offers a comprehensive analysis of Zomato’s business performance, focusing 
 
 • **Sales Analysis:** Provides insights into total sales, order volume, and customer ratings.
 
+![Overview](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/Overview.png)
+
 • **User Performance:** Visualizes active users, new and lost users, and age demographics.
 
+![User Performance](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/User%20Performance.png)
+
 • **City Performance:** Analyzes sales, orders, and user engagement across various cities.
+
+![City Performance](https://github.com/Kaushik-Puttaswamy/Zomato-Business-Performance-Analytics-Dashboard/blob/dev/Dashboard%20Images/City%20Performance.png)
 
 • **Interactive Elements:** Features filters and visuals like bar charts, line graphs, and heat maps for enhanced user engagement.
 
@@ -67,7 +73,7 @@ It offers a comprehensive analysis of Zomato’s business performance, focusing 
 
 This dashboard is a strategic asset for analyzing Zomato's business operations, highlighting opportunities for growth, and supporting data-driven decision-making.
 
-📧 Contact
+# 📧 Contact
 
 For additional information, please reach out at [LinkedIn](https://www.linkedin.com/in/kaushik-puttaswamy-data-analyst/).
 
