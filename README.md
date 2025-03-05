@@ -1,6 +1,6 @@
 # Zomato Business Performance & Analytics Dashboard
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
 The **Zomato Business Performance & Analytics Dashboard** is a dynamic and interactive data visualization tool developed using **Microsoft Power BI**. 
 It offers a comprehensive analysis of Zomato’s business performance, focusing on sales, user activity, and city-specific metrics.
